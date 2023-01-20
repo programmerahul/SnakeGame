@@ -9,10 +9,11 @@
 This is a snake game using pygame.  
 
 To run:  
+----->Download zip or use git clone "url"  
 ----->Go to output folder:   
 ----->Double click "main.exe"
 
-If you have Python installed:  
+If you have Python installed you can run this way also:  
 ----->In terminal:  
 ----->Navigate to SnakeGame folder and write:  
 ----->python main.py  
